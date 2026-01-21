@@ -80,6 +80,7 @@ Integration with video file input
 Export detection results to CSV / database
 
 Upgrade to YOLOv5 / YOLOv8
+here i provide the the drive link which should be helpful in finding the yolo model "https://drive.google.com/drive/folders/1ukv5otcJrLmoAiTawzV5yZgBH5Yj37GS?usp=drive_link".
 
 Deployment as a web or desktop application
 
